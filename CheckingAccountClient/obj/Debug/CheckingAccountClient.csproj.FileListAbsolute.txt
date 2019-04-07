@@ -1,0 +1,103 @@
+C:\Users\KathleenWest\Dropbox\Apps\CheckingAccount\CheckingAccountClient\bin\Debug\CheckingAccountClient.exe.config
+C:\Users\KathleenWest\Dropbox\Apps\CheckingAccount\CheckingAccountClient\bin\Debug\CheckingAccountClient.exe
+C:\Users\KathleenWest\Dropbox\Apps\CheckingAccount\CheckingAccountClient\bin\Debug\CheckingAccountClient.pdb
+C:\Users\KathleenWest\Dropbox\Apps\CheckingAccount\CheckingAccountClient\bin\Debug\Newtonsoft.Json.dll
+C:\Users\KathleenWest\Dropbox\Apps\CheckingAccount\CheckingAccountClient\bin\Debug\Utilities.dll
+C:\Users\KathleenWest\Dropbox\Apps\CheckingAccount\CheckingAccountClient\bin\Debug\Utilities.pdb
+C:\Users\KathleenWest\Dropbox\Apps\CheckingAccount\CheckingAccountClient\obj\Debug\CheckingAccountClient.csprojAssemblyReference.cache
+C:\Users\KathleenWest\Dropbox\Apps\CheckingAccount\CheckingAccountClient\obj\Debug\CheckingAccountClient.csproj.CoreCompileInputs.cache
+C:\Users\KathleenWest\Dropbox\Apps\CheckingAccount\CheckingAccountClient\obj\Debug\CheckingAccountClient.csproj.CopyComplete
+C:\Users\KathleenWest\Dropbox\Apps\CheckingAccount\CheckingAccountClient\obj\Debug\CheckingAccountClient.exe
+C:\Users\KathleenWest\Dropbox\Apps\CheckingAccount\CheckingAccountClient\obj\Debug\CheckingAccountClient.pdb
+C:\Users\KathleenWest\Dropbox\Apps\CheckingAccount\CheckingAccountApplication\CheckingAccountClient\bin\Debug\CheckingAccountClient.exe.config
+C:\Users\KathleenWest\Dropbox\Apps\CheckingAccount\CheckingAccountApplication\CheckingAccountClient\bin\Debug\CheckingAccountClient.exe
+C:\Users\KathleenWest\Dropbox\Apps\CheckingAccount\CheckingAccountApplication\CheckingAccountClient\bin\Debug\CheckingAccountClient.pdb
+C:\Users\KathleenWest\Dropbox\Apps\CheckingAccount\CheckingAccountApplication\CheckingAccountClient\bin\Debug\Newtonsoft.Json.dll
+C:\Users\KathleenWest\Dropbox\Apps\CheckingAccount\CheckingAccountApplication\CheckingAccountClient\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\KathleenWest\Dropbox\Apps\CheckingAccount\CheckingAccountApplication\CheckingAccountClient\bin\Debug\System.Web.Http.dll
+C:\Users\KathleenWest\Dropbox\Apps\CheckingAccount\CheckingAccountApplication\CheckingAccountClient\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\KathleenWest\Dropbox\Apps\CheckingAccount\CheckingAccountApplication\CheckingAccountClient\bin\Debug\Utilities.dll
+C:\Users\KathleenWest\Dropbox\Apps\CheckingAccount\CheckingAccountApplication\CheckingAccountClient\bin\Debug\Utilities.pdb
+C:\Users\KathleenWest\Dropbox\Apps\CheckingAccount\CheckingAccountApplication\CheckingAccountClient\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\KathleenWest\Dropbox\Apps\CheckingAccount\CheckingAccountApplication\CheckingAccountClient\bin\Debug\Newtonsoft.Json.xml
+C:\Users\KathleenWest\Dropbox\Apps\CheckingAccount\CheckingAccountApplication\CheckingAccountClient\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\KathleenWest\Dropbox\Apps\CheckingAccount\CheckingAccountApplication\CheckingAccountClient\bin\Debug\System.Web.Http.xml
+C:\Users\KathleenWest\Dropbox\Apps\CheckingAccount\CheckingAccountApplication\CheckingAccountClient\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\KathleenWest\Dropbox\Apps\CheckingAccount\CheckingAccountApplication\CheckingAccountClient\obj\Debug\CheckingAccountClient.csprojAssemblyReference.cache
+C:\Users\KathleenWest\Dropbox\Apps\CheckingAccount\CheckingAccountApplication\CheckingAccountClient\obj\Debug\CheckingAccountClient.csproj.CoreCompileInputs.cache
+C:\Users\KathleenWest\Dropbox\Apps\CheckingAccount\CheckingAccountApplication\CheckingAccountClient\obj\Debug\CheckingAccountClient.csproj.CopyComplete
+C:\Users\KathleenWest\Dropbox\Apps\CheckingAccount\CheckingAccountApplication\CheckingAccountClient\obj\Debug\CheckingAccountClient.exe
+C:\Users\KathleenWest\Dropbox\Apps\CheckingAccount\CheckingAccountApplication\CheckingAccountClient\obj\Debug\CheckingAccountClient.pdb
+C:\Users\KathleenWest\Dropbox\Apps\FinalProject\CheckingAccountClient\bin\Debug\CheckingAccountClient.exe.config
+C:\Users\KathleenWest\Dropbox\Apps\FinalProject\CheckingAccountClient\bin\Debug\CheckingAccountClient.exe
+C:\Users\KathleenWest\Dropbox\Apps\FinalProject\CheckingAccountClient\bin\Debug\CheckingAccountClient.pdb
+C:\Users\KathleenWest\Dropbox\Apps\FinalProject\CheckingAccountClient\bin\Debug\Models.dll
+C:\Users\KathleenWest\Dropbox\Apps\FinalProject\CheckingAccountClient\bin\Debug\Newtonsoft.Json.dll
+C:\Users\KathleenWest\Dropbox\Apps\FinalProject\CheckingAccountClient\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\KathleenWest\Dropbox\Apps\FinalProject\CheckingAccountClient\bin\Debug\System.Web.Http.dll
+C:\Users\KathleenWest\Dropbox\Apps\FinalProject\CheckingAccountClient\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\KathleenWest\Dropbox\Apps\FinalProject\CheckingAccountClient\bin\Debug\Utilities.dll
+C:\Users\KathleenWest\Dropbox\Apps\FinalProject\CheckingAccountClient\bin\Debug\Models.pdb
+C:\Users\KathleenWest\Dropbox\Apps\FinalProject\CheckingAccountClient\bin\Debug\Utilities.pdb
+C:\Users\KathleenWest\Dropbox\Apps\FinalProject\CheckingAccountClient\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\KathleenWest\Dropbox\Apps\FinalProject\CheckingAccountClient\bin\Debug\Newtonsoft.Json.xml
+C:\Users\KathleenWest\Dropbox\Apps\FinalProject\CheckingAccountClient\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\KathleenWest\Dropbox\Apps\FinalProject\CheckingAccountClient\bin\Debug\System.Web.Http.xml
+C:\Users\KathleenWest\Dropbox\Apps\FinalProject\CheckingAccountClient\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\KathleenWest\Dropbox\Apps\FinalProject\CheckingAccountClient\obj\Debug\CheckingAccountClient.csprojAssemblyReference.cache
+C:\Users\KathleenWest\Dropbox\Apps\FinalProject\CheckingAccountClient\obj\Debug\CheckingAccountClient.csproj.CoreCompileInputs.cache
+C:\Users\KathleenWest\Dropbox\Apps\FinalProject\CheckingAccountClient\obj\Debug\CheckingAccountClient.csproj.CopyComplete
+C:\Users\KathleenWest\Dropbox\Apps\FinalProject\CheckingAccountClient\obj\Debug\CheckingAccountClient.exe
+C:\Users\KathleenWest\Dropbox\Apps\FinalProject\CheckingAccountClient\obj\Debug\CheckingAccountClient.pdb
+C:\Users\KathleenWest\Dropbox\Career\GitHub Repositories\CheckingAccountRegisterServiceWebAPIWithHttpClientConsoleApplication\CheckingAccountClient\bin\Debug\CheckingAccountClient.exe.config
+C:\Users\KathleenWest\Dropbox\Career\GitHub Repositories\CheckingAccountRegisterServiceWebAPIWithHttpClientConsoleApplication\CheckingAccountClient\bin\Debug\CheckingAccountClient.exe
+C:\Users\KathleenWest\Dropbox\Career\GitHub Repositories\CheckingAccountRegisterServiceWebAPIWithHttpClientConsoleApplication\CheckingAccountClient\bin\Debug\CheckingAccountClient.pdb
+C:\Users\KathleenWest\Dropbox\Career\GitHub Repositories\CheckingAccountRegisterServiceWebAPIWithHttpClientConsoleApplication\CheckingAccountClient\bin\Debug\Models.dll
+C:\Users\KathleenWest\Dropbox\Career\GitHub Repositories\CheckingAccountRegisterServiceWebAPIWithHttpClientConsoleApplication\CheckingAccountClient\bin\Debug\Newtonsoft.Json.dll
+C:\Users\KathleenWest\Dropbox\Career\GitHub Repositories\CheckingAccountRegisterServiceWebAPIWithHttpClientConsoleApplication\CheckingAccountClient\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\KathleenWest\Dropbox\Career\GitHub Repositories\CheckingAccountRegisterServiceWebAPIWithHttpClientConsoleApplication\CheckingAccountClient\bin\Debug\System.Web.Http.dll
+C:\Users\KathleenWest\Dropbox\Career\GitHub Repositories\CheckingAccountRegisterServiceWebAPIWithHttpClientConsoleApplication\CheckingAccountClient\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\KathleenWest\Dropbox\Career\GitHub Repositories\CheckingAccountRegisterServiceWebAPIWithHttpClientConsoleApplication\CheckingAccountClient\bin\Debug\Utilities.dll
+C:\Users\KathleenWest\Dropbox\Career\GitHub Repositories\CheckingAccountRegisterServiceWebAPIWithHttpClientConsoleApplication\CheckingAccountClient\bin\Debug\Models.pdb
+C:\Users\KathleenWest\Dropbox\Career\GitHub Repositories\CheckingAccountRegisterServiceWebAPIWithHttpClientConsoleApplication\CheckingAccountClient\bin\Debug\Utilities.pdb
+C:\Users\KathleenWest\Dropbox\Career\GitHub Repositories\CheckingAccountRegisterServiceWebAPIWithHttpClientConsoleApplication\CheckingAccountClient\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\KathleenWest\Dropbox\Career\GitHub Repositories\CheckingAccountRegisterServiceWebAPIWithHttpClientConsoleApplication\CheckingAccountClient\bin\Debug\Newtonsoft.Json.xml
+C:\Users\KathleenWest\Dropbox\Career\GitHub Repositories\CheckingAccountRegisterServiceWebAPIWithHttpClientConsoleApplication\CheckingAccountClient\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\KathleenWest\Dropbox\Career\GitHub Repositories\CheckingAccountRegisterServiceWebAPIWithHttpClientConsoleApplication\CheckingAccountClient\bin\Debug\System.Web.Http.xml
+C:\Users\KathleenWest\Dropbox\Career\GitHub Repositories\CheckingAccountRegisterServiceWebAPIWithHttpClientConsoleApplication\CheckingAccountClient\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\KathleenWest\Dropbox\Career\GitHub Repositories\CheckingAccountRegisterServiceWebAPIWithHttpClientConsoleApplication\CheckingAccountClient\obj\Debug\CheckingAccountClient.csprojAssemblyReference.cache
+C:\Users\KathleenWest\Dropbox\Career\GitHub Repositories\CheckingAccountRegisterServiceWebAPIWithHttpClientConsoleApplication\CheckingAccountClient\obj\Debug\CheckingAccountClient.csproj.CoreCompileInputs.cache
+C:\Users\KathleenWest\Dropbox\Career\GitHub Repositories\CheckingAccountRegisterServiceWebAPIWithHttpClientConsoleApplication\CheckingAccountClient\obj\Debug\CheckingAccountClient.csproj.CopyComplete
+C:\Users\KathleenWest\Dropbox\Career\GitHub Repositories\CheckingAccountRegisterServiceWebAPIWithHttpClientConsoleApplication\CheckingAccountClient\obj\Debug\CheckingAccountClient.exe
+C:\Users\KathleenWest\Dropbox\Career\GitHub Repositories\CheckingAccountRegisterServiceWebAPIWithHttpClientConsoleApplication\CheckingAccountClient\obj\Debug\CheckingAccountClient.pdb
+C:\Users\KathleenWest\Dropbox\Career\GitHub Repositories\CheckingAccountRegisterServiceWebAPIWithHttpClientConsoleApplication\CheckingAccountClient\bin\Debug\Antlr3.Runtime.dll
+C:\Users\KathleenWest\Dropbox\Career\GitHub Repositories\CheckingAccountRegisterServiceWebAPIWithHttpClientConsoleApplication\CheckingAccountClient\bin\Debug\WebGrease.dll
+C:\Users\KathleenWest\Dropbox\Career\GitHub Repositories\CheckingAccountRegisterServiceWebAPIWithHttpClientConsoleApplication\CheckingAccountClient\bin\Debug\Models.dll.config
+C:\Users\KathleenWest\Dropbox\Career\GitHub Repositories\CheckingAccountRegisterServiceWebAPIWithHttpClientConsoleApplication\CheckingAccountClient\bin\Debug\Utilities.dll.config
+C:\Users\KathleenWest\Dropbox\Career\GitHub Repositories\CheckingAccountRegisterServiceWebAPIWithHttpClientConsoleApplication\CheckingAccountClient\bin\Debug\Antlr3.Runtime.pdb
+C:\Users\KathleenWest\Dropbox\Career\GitHub Repositories\CheckingAccountRegisterDemo\CheckingAccountClient\bin\Debug\CheckingAccountClient.exe.config
+C:\Users\KathleenWest\Dropbox\Career\GitHub Repositories\CheckingAccountRegisterDemo\CheckingAccountClient\bin\Debug\CheckingAccountClient.exe
+C:\Users\KathleenWest\Dropbox\Career\GitHub Repositories\CheckingAccountRegisterDemo\CheckingAccountClient\bin\Debug\CheckingAccountClient.pdb
+C:\Users\KathleenWest\Dropbox\Career\GitHub Repositories\CheckingAccountRegisterDemo\CheckingAccountClient\bin\Debug\Antlr3.Runtime.dll
+C:\Users\KathleenWest\Dropbox\Career\GitHub Repositories\CheckingAccountRegisterDemo\CheckingAccountClient\bin\Debug\Models.dll
+C:\Users\KathleenWest\Dropbox\Career\GitHub Repositories\CheckingAccountRegisterDemo\CheckingAccountClient\bin\Debug\Newtonsoft.Json.dll
+C:\Users\KathleenWest\Dropbox\Career\GitHub Repositories\CheckingAccountRegisterDemo\CheckingAccountClient\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\KathleenWest\Dropbox\Career\GitHub Repositories\CheckingAccountRegisterDemo\CheckingAccountClient\bin\Debug\System.Web.Http.dll
+C:\Users\KathleenWest\Dropbox\Career\GitHub Repositories\CheckingAccountRegisterDemo\CheckingAccountClient\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\KathleenWest\Dropbox\Career\GitHub Repositories\CheckingAccountRegisterDemo\CheckingAccountClient\bin\Debug\Utilities.dll
+C:\Users\KathleenWest\Dropbox\Career\GitHub Repositories\CheckingAccountRegisterDemo\CheckingAccountClient\bin\Debug\WebGrease.dll
+C:\Users\KathleenWest\Dropbox\Career\GitHub Repositories\CheckingAccountRegisterDemo\CheckingAccountClient\bin\Debug\Models.pdb
+C:\Users\KathleenWest\Dropbox\Career\GitHub Repositories\CheckingAccountRegisterDemo\CheckingAccountClient\bin\Debug\Models.dll.config
+C:\Users\KathleenWest\Dropbox\Career\GitHub Repositories\CheckingAccountRegisterDemo\CheckingAccountClient\bin\Debug\Utilities.pdb
+C:\Users\KathleenWest\Dropbox\Career\GitHub Repositories\CheckingAccountRegisterDemo\CheckingAccountClient\bin\Debug\Utilities.dll.config
+C:\Users\KathleenWest\Dropbox\Career\GitHub Repositories\CheckingAccountRegisterDemo\CheckingAccountClient\bin\Debug\Antlr3.Runtime.pdb
+C:\Users\KathleenWest\Dropbox\Career\GitHub Repositories\CheckingAccountRegisterDemo\CheckingAccountClient\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\KathleenWest\Dropbox\Career\GitHub Repositories\CheckingAccountRegisterDemo\CheckingAccountClient\bin\Debug\Newtonsoft.Json.xml
+C:\Users\KathleenWest\Dropbox\Career\GitHub Repositories\CheckingAccountRegisterDemo\CheckingAccountClient\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\KathleenWest\Dropbox\Career\GitHub Repositories\CheckingAccountRegisterDemo\CheckingAccountClient\bin\Debug\System.Web.Http.xml
+C:\Users\KathleenWest\Dropbox\Career\GitHub Repositories\CheckingAccountRegisterDemo\CheckingAccountClient\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\KathleenWest\Dropbox\Career\GitHub Repositories\CheckingAccountRegisterDemo\CheckingAccountClient\obj\Debug\CheckingAccountClient.csprojAssemblyReference.cache
+C:\Users\KathleenWest\Dropbox\Career\GitHub Repositories\CheckingAccountRegisterDemo\CheckingAccountClient\obj\Debug\CheckingAccountClient.csproj.CoreCompileInputs.cache
+C:\Users\KathleenWest\Dropbox\Career\GitHub Repositories\CheckingAccountRegisterDemo\CheckingAccountClient\obj\Debug\CheckingAccountClient.csproj.CopyComplete
+C:\Users\KathleenWest\Dropbox\Career\GitHub Repositories\CheckingAccountRegisterDemo\CheckingAccountClient\obj\Debug\CheckingAccountClient.exe
+C:\Users\KathleenWest\Dropbox\Career\GitHub Repositories\CheckingAccountRegisterDemo\CheckingAccountClient\obj\Debug\CheckingAccountClient.pdb

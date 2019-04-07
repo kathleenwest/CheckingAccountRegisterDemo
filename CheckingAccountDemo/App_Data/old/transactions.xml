@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<transactions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <transaction xsi:type="credit">
+    <date>2015-01-02T00:00:00</date>
+    <description>Child Support</description>
+    <amount>212.75</amount>
+    <credittype>AutomaticDeposit</credittype>
+  </transaction>
+  <transaction xsi:type="debit">
+    <date>2015-01-02T00:00:00</date>
+    <description>Electric company</description>
+    <amount>55.47</amount>
+    <debittype>Check</debittype>
+    <checkno>1001</checkno>
+    <fee>0</fee>
+  </transaction>
+  <transaction xsi:type="debit">
+    <date>2015-01-02T00:00:00</date>
+    <description>Gas company</description>
+    <amount>155.47</amount>
+    <debittype>Check</debittype>
+    <checkno>1002</checkno>
+    <fee>2.01</fee>
+  </transaction>
+  <transaction xsi:type="debit">
+    <date>2015-01-02T00:00:01</date>
+    <description>Mortgage</description>
+    <amount>1355.47</amount>
+    <debittype>FundsTransfer</debittype>
+    <checkno>0</checkno>
+    <fee>0.25</fee>
+  </transaction>
+  <transaction xsi:type="credit">
+    <date>2015-01-09T00:00:00</date>
+    <description>UCSD Paycheck</description>
+    <amount>2512.75</amount>
+    <credittype>AutomaticDeposit</credittype>
+  </transaction>
+  <transaction xsi:type="debit">
+    <date>2015-01-13T00:00:00</date>
+    <description>Branch withdrawal</description>
+    <amount>125</amount>
+    <debittype>Cash</debittype>
+    <checkno>0</checkno>
+    <fee>0</fee>
+  </transaction>
+  <transaction xsi:type="debit">
+    <date>2015-01-13T00:00:00</date>
+    <description>Retirement account</description>
+    <amount>500</amount>
+    <debittype>FundsTransfer</debittype>
+    <checkno>0</checkno>
+    <fee>0</fee>
+  </transaction>
+  <transaction xsi:type="credit">
+    <date>2015-05-01T03:00:00-04:00</date>
+    <description>Initial Deposit</description>
+    <amount>7500.0</amount>
+    <credittype>Cash</credittype>
+  </transaction>
+  <transaction xsi:type="credit">
+    <date>2019-02-23T10:36:08.3278263-05:00</date>
+    <description>Got some money</description>
+    <amount>5.5</amount>
+    <credittype>Cash</credittype>
+  </transaction>
+  <transaction xsi:type="debit">
+    <date>2019-02-23T10:36:08.3278263-05:00</date>
+    <description>IRS took my money</description>
+    <amount>5.5</amount>
+    <debittype>FundsTransfer</debittype>
+    <checkno>120</checkno>
+    <fee>5</fee>
+  </transaction>
+</transactions>
