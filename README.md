@@ -3,7 +3,7 @@
 ASP.NET Web API Checking Account Register Service Demo with XML Datastore & Client "Tester" Console Application
 
 Project Blog Article here: 
-
+https://portfolio.katiegirl.net/2019/04/07/asp-net-web-api-checking-account-register-service-demo-with-xml-datastore-client-tester-console-application/
 
 
 About
